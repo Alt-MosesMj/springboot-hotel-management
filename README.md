@@ -22,4 +22,4 @@ This project is a Spring Boot application designed for managing hotel data, prov
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/springboot-hotel-management.git
+   git clone https://github.com/Alt-MosesMj/springboot-hotel-management.git
